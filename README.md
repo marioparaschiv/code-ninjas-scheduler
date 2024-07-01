@@ -35,3 +35,7 @@ When configuring the script, please rename `sample_config.json` to `config.json`
 
 #### Delete Sessions
 `bun . --delete`
+
+## Licensing
+See [LICENSE](/LICENSE).
+
