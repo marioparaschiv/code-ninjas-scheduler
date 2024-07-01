@@ -1,7 +1,11 @@
+---
+
 <div align="center">
-  <h1><img width='50' align='center' src='assets/logo.png' /> Code Ninjas Scheduler</h1>
+  <h3><img width='50' align='center' src='assets/logo.png' /> Code Ninjas Scheduler</h3>
   <p>This tool was created to get around the pesky UX and UI that Code Ninjas provides for scheduling sessions.</p>
 </div>
+
+---
 
 ## Features
 - Session Scheduler
