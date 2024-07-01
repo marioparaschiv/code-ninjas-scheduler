@@ -1,0 +1,15 @@
+{
+	"name": "code-ninjas-scheduler",
+	"version": "1.0.0",
+	"description": "Schedules sessions for the upcoming month using templates.",
+	"type": "module",
+	"main": "src/index.js",
+	"author": "Mario <me@marioparaschiv.com> (github.com/marioparaschiv)",
+	"license": "Unlicensed",
+	"dependencies": {
+		"moment": "^2.29.4"
+	},
+	"devDependencies": {
+		"@types/node": "^20.14.9"
+	}
+}

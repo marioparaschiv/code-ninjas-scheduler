@@ -1,0 +1,38 @@
+{
+	"DOJO_ID": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+	"COOKIE": "ApplicationGatewayAffinityCORS=xxx; ApplicationGatewayAffinity=xxx; .AspNet.ExternalCookie=xxx; .AspNet.ApplicationCookie=xxx; __stripe_mid=xxx; __stripe_sid=xxx",
+	"SCHEDULE": [
+		{
+			"capacity": 6,
+			"name": "CREATE 1HR",
+			"nickname": "CREATE",
+			"day": 2,
+			"startTime": 16,
+			"endTime": 17
+		},
+		{
+			"capacity": 6,
+			"name": "JUNIOR 1HR",
+			"nickname": "JR",
+			"day": 3,
+			"startTime": 16,
+			"endTime": 17
+		},
+		{
+			"capacity": 10,
+			"name": "CREATE 1HR",
+			"nickname": "CREATE",
+			"day": 4,
+			"startTime": 17,
+			"endTime": 18
+		},
+		{
+			"capacity": 6,
+			"name": "JUNIOR 1HR",
+			"nickname": "JR",
+			"day": 6,
+			"startTime": 9,
+			"endTime": 10
+		}
+	]
+}
