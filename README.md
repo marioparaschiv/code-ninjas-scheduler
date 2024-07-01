@@ -1,5 +1,11 @@
-# <img width='50' align='center' src='assets/logo.png' /> Code Ninjas Scheduler
-This tool was created to get around the pesky UX and UI that Code Ninjas provides for scheduling sessions. It features a configurable session scheduler along with a session deleter.
+<div align="center">
+  <h1><img width='50' align='center' src='assets/logo.png' /> Code Ninjas Scheduler</h1>
+  <p>This tool was created to get around the pesky UX and UI that Code Ninjas provides for scheduling sessions.</p>
+</div>
+
+## Features
+- Session Scheduler
+- Session Deleter
 
 ## Notes
 The scheduler will schedule sessions for the next month. No matter what the date is, starting this script will schedule for next month, even if this script is ran on the 1st of the month you'd like to schedule sessions for.
